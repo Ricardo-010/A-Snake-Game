@@ -1,7 +1,7 @@
 #snake_config.txt
 #Comments are allowed in the file, as are blank lines
 
-num_snakes      4   #add double the number of snakes to the board
+num_snakes      4   #Change to add more or less snakes
 
 #Make the board bigger
 game_width      50
